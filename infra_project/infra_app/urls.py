@@ -1,6 +1,7 @@
 from . import views
 from django.urls import path
 
+
 app_name = 'infra_app'
 
 urlpatterns = [
